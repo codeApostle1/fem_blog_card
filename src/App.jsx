@@ -3,7 +3,7 @@ import Card from './components/Card.jsx'
 import './App.css'
 import Image from './components/Image.jsx'
 import Text from './components/Text.jsx'
-import Footer from './components/footer.jsx'
+import Footer from './components/Footer.jsx'
 import Container from './components/Container.jsx'
 // import Image from './components/'
 
